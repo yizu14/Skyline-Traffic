@@ -12,10 +12,11 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class SMSUtils {
-    private static String secret_id = "AKIDFC8vYzPJvPp34tDN4MYTL5r7ACoDgSJz";
-    private static String secret_key = "PeAf2DCVdXBi2HG0jeJk4AIE6vb5S3XB";
-    private static String sms_app_id = "1400308849";
-    private static String sms_sign = "Sin的专属空间";
+    //Tencent Cloud Properties(Already Hidden)
+    private static String secret_id = "XX";
+    private static String secret_key = "XX";
+    private static String sms_app_id = "XX";
+    private static String sms_sign = "XX";
     private static String sms_template_id = "587772";
     public static void send(String plate,String time,String blockid,String roadid){
         String[] params = {plate,time,blockid,roadid};

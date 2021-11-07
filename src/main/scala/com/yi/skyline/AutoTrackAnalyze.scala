@@ -104,7 +104,7 @@ object AutoTrackAnalyze {
 
     /**
      * 分析车辆轨迹
-     * 今日记事：Prime Minister was sent to the ICU due to the heavy symptom
+     * 今日记事：
      */
     //2018-04-26	0005	26780	深W61995	2018-04-26 02:44:08	154	47	02
 

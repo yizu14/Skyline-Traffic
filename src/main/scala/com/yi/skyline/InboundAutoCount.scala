@@ -38,7 +38,7 @@ object InboundAutoCount {
      * Feature:外地车统计
      * 统计外地车数量及首次出现位置
      * 封存日期：2020年04月09日
-     * 今日记事：Wuhan -- the most affected city by COVID-19 is unlocked
+     * 今日记事：
      */
 
     def inboundAutoCount(localPlateStart: String): Unit = {

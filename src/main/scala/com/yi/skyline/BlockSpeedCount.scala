@@ -55,7 +55,7 @@ object BlockSpeedCount {
      * 统计分区速度排名
      * 封存于2020年4月6日
      * Done
-     * 今日记事：Prime Minister Boris Johnson was sent to the hospital due to the COVID-19
+     * 今日记事：
      */
     //2018-04-26	0005	43356	深W61995	2018-04-26 02:13:57	174	32	05
 

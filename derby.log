@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed May 06 10:46:04 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0171-e7e0-395e-000006a93f58 
+on database directory /Users/skyline/Downloads/IDEA Project/GradDesignScala/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@3b0f7d9d 
+Loaded from file:/Users/skyline/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=/Users/skyline/Downloads/IDEA Project/GradDesignScala
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
